@@ -1,0 +1,25 @@
+{
+	"Questions" :
+	[
+	{
+		"key": "USERNAME",
+		"question" : "What is your name?"
+	},
+	{
+		"key": "NAME",
+		"question": "What is your assignment name?"
+	},
+	{
+		"key": "TITLE",
+		"question": "What is your assignment title?"
+	},
+	{
+		"key": "COMPLETION",
+		"question": "How much of your assignment is completed?"
+	},
+	{
+		"key": "DEADLINE",
+		"question": "What is the deadline of your assignment?"
+	}
+]
+}
