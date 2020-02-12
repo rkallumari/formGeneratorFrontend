@@ -1,3 +1,5 @@
+# formGeneratorFrontend
+Contains end user interface that displays questions configured and prepares downloadable report based on the ansers
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
